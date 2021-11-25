@@ -1,6 +1,6 @@
 {
-    "name": "mywebsite",
-    "short_name": "mywebsite",
+    "name": "remember_the_game",
+    "short_name": "remember_the_game",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
