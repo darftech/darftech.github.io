@@ -61368,7 +61368,7 @@ os(){var s=0,r=A.A(t.H),q=this,p,o,n
 var $async$os=A.w(function(a,b){if(a===1)return A.x(b,r)
 while(true)switch(s){case 0:n=q.d
 s=2
-return A.v(n.u6("assets/assets/audio/"+A.e(A.a(q.e,"ans"))+".mp3"),$async$os)
+return A.v(n.u6("audio/"+A.e(A.a(q.e,"ans"))+".mp3"),$async$os)
 case 2:s=3
 return A.v(n.mL(B.zf,B.k),$async$os)
 case 3:n.cV($.AE/100)
@@ -61404,7 +61404,7 @@ r.f=A.a(r.f,"listened")-1},
 $S:0}
 A.a4H.prototype={
 $1(a){var s,r=A.a(this.a.e,"ans"),q=J.iP(4,t.N)
-for(s=0;s<4;++s)q[s]="assets/assets/audio/"+s+".mp3"
+for(s=0;s<4;++s)q[s]="audio/"+s+".mp3"
 return new A.ll(q,r,null)},
 $S:386}
 A.a4I.prototype={
